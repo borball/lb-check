@@ -38,3 +38,7 @@ Options:
 ./lb-check
 
 ![sample](sample.png)
+
+- passing: Both L4 and L7(if applicable) checking are good
+- L4:F: L4 checking failed
+- L7:F: L7 checking failed
