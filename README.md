@@ -21,7 +21,7 @@ APP_MMS_MO    | 10.1.202.198   | 8021          | /mm7                           
 APP_LBS_MO    | 10.1.202.198   | 8022          | /ParlayXTlAccess/services/TerminalLocation  | 172.16.14.[9:24]   |   27010       |
 ```
 
-Put lb-check.py abd lb.csv into any folder on your control server with python3 and requests module installed.
+Put lb-check.py and lb.csv into any folder on your control server with python3 and requests module installed.
 
 ```shell
 $./lb-check.py -h
